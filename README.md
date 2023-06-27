@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @azisyulianas
-- 👀 I’m interested in Backend-Dev and Machine Learning
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web Dev
-- 📫 You can send email to azis3111@gmail.com for colab 
 
-<!---
-azisyulianas/azisyulianas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Azis Yulianas! 👋
+
+## 🚀 About Me
+```python
+print(Hello world)
+```
+
+My name is Azis Yulianas im from Indonesia. I'm Intersting in Backend Dev and Machine Learning
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, PHP, Python
+, Django, Laravel, Codeigniter and Node.js
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Laravel
+
+🧠 I'm currently learning Laravel
+
+👯‍♀️ I'm looking to collaborate on Web Developver
+
+🤔 I'm looking for help with Frontend Developver
+
+💬 Ask me about anything about python or other programing language
+
+📫 How to reach me you can email me at azis3111@gmail.com
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/azis-yulianas-9a4a8a125)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alizyis)
+
