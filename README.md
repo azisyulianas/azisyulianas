@@ -7,21 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/alizyis" target="blank"><img src="https://img.shields.io/twitter/follow/alizyis?logo=twitter&style=for-the-badge" alt="alizyis" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Laravel and Django**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and Django**
 
-- 👯 I’m looking to collaborate on **Laravel**
+- 👯 I’m looking to collaborate on **Laravel and Django**
 
 - 🤝 I’m looking for help with **Frontend Dev**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/open?id=12Vbvo1W_0c7ysle0Cl5_jwxlFH4Yv7ho&usp=drive_fs](https://drive.google.com/open?id=12Vbvo1W_0c7ysle0Cl5_jwxlFH4Yv7ho&usp=drive_fs)
-
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **email at azis3111@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/open?id=13J5-41hGaf0LEuLh4koXiFSCqfvHRfFu&usp=drive_fs](https://drive.google.com/open?id=13J5-41hGaf0LEuLh4koXiFSCqfvHRfFu&usp=drive_fs)
 
 - ⚡ Fun fact **I'm curious person**
 
