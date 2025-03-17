@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/alizyis" target="blank"><img src="https://img.shields.io/twitter/follow/alizyis?logo=twitter&style=for-the-badge" alt="alizyis" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel and Django**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Laravel and Django**
+- 🌱 I’m currently learning **Next JS, React and Django**
 
-- 👯 I’m looking to collaborate on **Laravel and Django**
-
-- 🤝 I’m looking for help with **Frontend Dev**
+- 👯 I’m looking to collaborate on **Next JS, React and Django**
 
 - 📫 How to reach me **email at azis3111@gmail.com**
 
